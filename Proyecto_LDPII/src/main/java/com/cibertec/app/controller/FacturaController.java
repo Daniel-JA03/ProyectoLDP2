@@ -4,7 +4,6 @@ import com.cibertec.app.dto.factura.FacturaRequestDTO;
 import com.cibertec.app.dto.factura.FacturaResponseDTO;
 import com.cibertec.app.service.FacturaService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
